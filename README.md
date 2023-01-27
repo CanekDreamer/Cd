@@ -11,7 +11,7 @@
  <IMG SRC="CLOCK.PNG" ALIGN="TOP">
  </P>
  <CENTER>
-<TABLE WIDTH=60%>
+| WIDTH=60%
 <TR><TD><A HREF="5.HTML">5 класс</A></TD>
 <TD>6 класс</TD> </TR>
 <TR><TD>7 класс</TD>
@@ -19,7 +19,7 @@
 <TR><TD>9 класс</TD>
 <TD>10 класс</TD> </TR>
 <TR><TD>11 класс</TD> </TR>
-</TABLE>
+|
  </CENTER>
 </BODY>
 </HTML>

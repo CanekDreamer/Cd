@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-<TITLE>Учебный файл HTML</TITLE>
+Учебный файл HTML
 </HEAD>
 <BODY BGCOLOR="#FFFFFF" TEXT="#330066">
  <P ALIGN="CENTER">
